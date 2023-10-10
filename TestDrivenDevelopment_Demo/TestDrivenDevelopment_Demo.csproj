@@ -22,4 +22,8 @@
         </PackageReference>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\CodeToPassTest\CodeToPassTest.csproj" />
+    </ItemGroup>
+
 </Project>
